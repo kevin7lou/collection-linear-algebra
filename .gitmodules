@@ -1,0 +1,15 @@
+[submodule "MIT-Linear-Algebra-Notes"]
+	path = MIT-Linear-Algebra-Notes
+	url = https://github.com/MLNLP-World/MIT-Linear-Algebra-Notes
+[submodule "numerical-linear-algebra"]
+	path = numerical-linear-algebra
+	url = https://github.com/fastai/numerical-linear-algebra
+[submodule "The-Art-of-Linear-Algebra"]
+	path = The-Art-of-Linear-Algebra
+	url = https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra
+[submodule "notes-linear-algebra"]
+	path = notes-linear-algebra
+	url = https://github.com/zlotus/notes-linear-algebra
+[submodule "Linear-Algebra-With-Python"]
+	path = Linear-Algebra-With-Python
+	url = https://github.com/weijie-chen/Linear-Algebra-With-Python
